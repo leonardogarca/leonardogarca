@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá 👋
 
+Leonardo, estudante na Universidade Federal do ABC e estagiário no mercado financeiro. Trabalho com data engineering e, pessoalmente, me interesso por ciência de dados, análise de redes e não complicar coisas simples.
+
+## Contato
+- 📧 Email: lgleogar@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/leonardogarca](https://www.linkedin.com/in/leonardogarca/)
 <!--
 **leonardogarca/leonardogarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
