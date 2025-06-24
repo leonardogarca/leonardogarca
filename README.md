@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou um estudante na Universidade Federal do ABC e estagiário no mercado financeiro. Trabalho com data engineering e, pessoalmente, me interesso por ciência de dados, análise de redes e não complicar coisas simples.
+Sou um estudante da Universidade Federal do ABC e estagiário no mercado financeiro. Trabalho com data engineering e, pessoalmente, me interesso por ciência de dados, análise de redes e não complicar coisas simples.
 
 ## Contato
 - 📧 Email: lgleogar@gmail.com
