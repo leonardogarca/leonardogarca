@@ -1,4 +1,4 @@
-Estudante de Ciência de Dados na UFABC e estagiário no mercado financeiro. Trabalho mais com data engineering e, pessoalmente, me interesso por SciML, Análise de Redes e Detecção de fraudes.
+Estudante de Ciência de Dados na UFABC e estagiário no mercado financeiro. Trabalho principalmente com data engineering e, pessoalmente, me interesso por hybrid modelling, detecção de anomalias e não complicar demais as coisas - às vezes impossível.
 
 
 ## Contato
