@@ -1,6 +1,5 @@
-## Olá 👋
+Sou um estudante da UFABC e estagiário no mercado financeiro. Trabalho mais com data engineering e, pessoalmente, me interesso por SciML, Análise de Redes e Detecção de fraudes.
 
-Sou um estudante da UFABC e estagiário no mercado financeiro. Trabalho mais com data engineering e, pessoalmente, me interesso por ciência de dados, análise de redes e não complicar demais as coisas — a não ser que seja por curiosidade :D
 
 ## Contato
 - 📧 Email: lgleogar@gmail.com
